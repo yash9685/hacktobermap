@@ -1108,5 +1108,11 @@ var hacktobermap = [
     location: "Coimbatore, Tamil nadu",
     latitude: 11.0168,
     longitude: 76.9558
+  },
+  {
+    name: "Yash Gupta",
+    location: "Raipur, India",
+    latitude: 21.250000,
+    longitude: 81.629997
   }
 ];
